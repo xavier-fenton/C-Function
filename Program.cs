@@ -18,6 +18,4 @@
        
   }
 }
-        // double firstSum = AddNumbers(12.7, 16.35);
-        // Console.WriteLine($"firstsum = {firstSum}");
 
